@@ -1,7 +1,13 @@
 // javascript comment :
 
-// JavaScript comments can be used to explain JavaScript code, and to make it more readable.
-// JavaScript comments can also be used to prevent execution, when testing alternative code.
+/*
+JavaScript comments are used to add explanatory notes or remarks within the code that are ignored 
+by the JavaScript engine and not executed as part of the program. They are useful for documenting code,
+explaining complex logic, or temporarily disabling code during testing or debugging.
+or,
+JavaScript comments can be used to explain JavaScript code, and to make it more readable.
+JavaScript comments can also be used to prevent execution, when testing alternative code.
+*/
 
 // ********************  single line comment  ******************************
 // Single line comments start with //.

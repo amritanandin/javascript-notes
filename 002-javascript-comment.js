@@ -13,8 +13,7 @@
 // hello world program
 console.log("Ex 1 : Hello world")
 
-// -----------------------------------------------
-// Output :
+// Output :---------------------------------------
 // Ex 3 : Hello world
 // -----------------------------------------------
 
@@ -23,8 +22,7 @@ console.log("Ex 1 : Hello world")
 
 console.log("Ex 2 : Hello world") // hello world program
 
-// -----------------------------------------------
-// Output :
+// Output :---------------------------------------
 // Ex 2 : Hello world
 // -----------------------------------------------
 
@@ -39,7 +37,6 @@ console.log("Ex 2 : Hello world") // hello world program
 in javascript */
 console.log("Ex 3 : Hello world")
 
-// -----------------------------------------------
-// Output :
+// Output :---------------------------------------
 // Ex 3 : Hello world
 // -----------------------------------------------
